@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhruvraj707/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Dhruvraj707/DSA/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -25,14 +26,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Dhruvraj707/DSA/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Dhruvraj707/DSA/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruvraj707/DSA/tree/master/0020-valid-parentheses) |
+| [0389-find-the-difference](https://github.com/Dhruvraj707/DSA/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
