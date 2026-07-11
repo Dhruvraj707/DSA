@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Dhruvraj707/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruvraj707/DSA/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dhruvraj707/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dhruvraj707/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dhruvraj707/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
