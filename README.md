@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Dhruvraj707/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/Dhruvraj707/DSA/tree/master/0389-find-the-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruvraj707/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhruvraj707/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruvraj707/DSA/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Dhruvraj707/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruvraj707/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhruvraj707/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,8 +75,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Dhruvraj707/DSA/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhruvraj707/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Dhruvraj707/DSA/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhruvraj707/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
