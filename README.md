@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dhruvraj707/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruvraj707/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Dhruvraj707/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Dhruvraj707/DSA/tree/master/0509-fibonacci-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Dhruvraj707/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
