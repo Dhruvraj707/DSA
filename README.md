@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhruvraj707/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Dhruvraj707/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dhruvraj707/DSA/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/Dhruvraj707/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Dhruvraj707/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruvraj707/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dhruvraj707/DSA/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/Dhruvraj707/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Dhruvraj707/DSA/tree/master/0509-fibonacci-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Dhruvraj707/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Dhruvraj707/DSA/tree/master/0018-4sum) |
+| [0202-happy-number](https://github.com/Dhruvraj707/DSA/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Dhruvraj707/DSA/tree/master/0392-is-subsequence) |
 ## Enumeration
 |  |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Dhruvraj707/DSA/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/Dhruvraj707/DSA/tree/master/0196-delete-duplicate-emails) |
 | [1251-average-selling-price](https://github.com/Dhruvraj707/DSA/tree/master/1251-average-selling-price) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Dhruvraj707/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
