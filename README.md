@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Dhruvraj707/DSA/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/Dhruvraj707/DSA/tree/master/0196-delete-duplicate-emails) |
 | [1251-average-selling-price](https://github.com/Dhruvraj707/DSA/tree/master/1251-average-selling-price) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Dhruvraj707/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
