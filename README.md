@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhruvraj707/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruvraj707/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhruvraj707/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Dhruvraj707/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Dhruvraj707/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruvraj707/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Dhruvraj707/DSA/tree/master/0217-contains-duplicate) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhruvraj707/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Dhruvraj707/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dhruvraj707/DSA/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Dhruvraj707/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Dhruvraj707/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Dhruvraj707/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruvraj707/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhruvraj707/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Dhruvraj707/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
