@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhruvraj707/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Dhruvraj707/DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Dhruvraj707/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Dhruvraj707/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Dhruvraj707/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dhruvraj707/DSA/tree/master/0049-group-anagrams) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruvraj707/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Dhruvraj707/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Dhruvraj707/DSA/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Dhruvraj707/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruvraj707/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dhruvraj707/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Dhruvraj707/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dhruvraj707/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruvraj707/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dhruvraj707/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Dhruvraj707/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhruvraj707/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Dhruvraj707/DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Dhruvraj707/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhruvraj707/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/Dhruvraj707/DSA/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Dhruvraj707/DSA/tree/master/0392-is-subsequence) |
