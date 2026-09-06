@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dhruvraj707/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Dhruvraj707/DSA/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/Dhruvraj707/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/Dhruvraj707/DSA/tree/master/0389-find-the-difference) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dhruvraj707/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## String
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dhruvraj707/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhruvraj707/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/Dhruvraj707/DSA/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/Dhruvraj707/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Dhruvraj707/DSA/tree/master/0392-is-subsequence) |
 ## Enumeration
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dhruvraj707/DSA/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Dhruvraj707/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhruvraj707/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -253,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhruvraj707/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Dhruvraj707/DSA/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Dhruvraj707/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
