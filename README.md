@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/Dhruvraj707/DSA/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Dhruvraj707/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Dhruvraj707/DSA/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Dhruvraj707/DSA/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Dhruvraj707/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Floyd's Cycle Finding Algorithm
 |  |
