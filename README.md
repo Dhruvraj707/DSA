@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhruvraj707/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Dhruvraj707/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Dhruvraj707/DSA/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Dhruvraj707/DSA/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhruvraj707/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Dhruvraj707/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Dhruvraj707/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Dhruvraj707/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Dhruvraj707/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Dhruvraj707/DSA/tree/master/0274-h-index) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Dhruvraj707/DSA/tree/master/0295-find-median-from-data-stream) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Dhruvraj707/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
