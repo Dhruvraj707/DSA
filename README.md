@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Dhruvraj707/DSA/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhruvraj707/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0435-non-overlapping-intervals](https://github.com/Dhruvraj707/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/Dhruvraj707/DSA/tree/master/0645-set-mismatch) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dhruvraj707/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1995-count-special-quadruplets](https://github.com/Dhruvraj707/DSA/tree/master/1995-count-special-quadruplets) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Dhruvraj707/DSA/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Dhruvraj707/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/Dhruvraj707/DSA/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/Dhruvraj707/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/Dhruvraj707/DSA/tree/master/0645-set-mismatch) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dhruvraj707/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## String
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhruvraj707/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Dhruvraj707/DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Dhruvraj707/DSA/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Dhruvraj707/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Dhruvraj707/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Dhruvraj707/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dhruvraj707/DSA/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Dhruvraj707/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0435-non-overlapping-intervals](https://github.com/Dhruvraj707/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhruvraj707/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
