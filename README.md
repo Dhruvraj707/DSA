@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Dhruvraj707/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhruvraj707/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhruvraj707/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Dhruvraj707/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Dhruvraj707/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhruvraj707/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhruvraj707/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Dhruvraj707/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Stack
 |  |
 | ------- |
