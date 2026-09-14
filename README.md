@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Dhruvraj707/DSA/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhruvraj707/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/Dhruvraj707/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0643-maximum-average-subarray-i](https://github.com/Dhruvraj707/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Dhruvraj707/DSA/tree/master/0645-set-mismatch) |
 | [0835-image-overlap](https://github.com/Dhruvraj707/DSA/tree/master/0835-image-overlap) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dhruvraj707/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dhruvraj707/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruvraj707/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruvraj707/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Dhruvraj707/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhruvraj707/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Dhruvraj707/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhruvraj707/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
