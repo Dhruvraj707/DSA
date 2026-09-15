@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dhruvraj707/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruvraj707/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Dhruvraj707/DSA/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Dhruvraj707/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dhruvraj707/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Dhruvraj707/DSA/tree/master/0274-h-index) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Dhruvraj707/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Dhruvraj707/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruvraj707/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Dhruvraj707/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhruvraj707/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Dhruvraj707/DSA/tree/master/0383-ransom-note) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhruvraj707/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dhruvraj707/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Dhruvraj707/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Dhruvraj707/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Dhruvraj707/DSA/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Dhruvraj707/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Dhruvraj707/DSA/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Dhruvraj707/DSA/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Dhruvraj707/DSA/tree/master/0383-ransom-note) |
 ## Design
@@ -299,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Dhruvraj707/DSA/tree/master/0056-merge-intervals) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Dhruvraj707/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
