@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhruvraj707/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Dhruvraj707/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Dhruvraj707/DSA/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/Dhruvraj707/DSA/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/Dhruvraj707/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhruvraj707/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Dhruvraj707/DSA/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Dhruvraj707/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Dhruvraj707/DSA/tree/master/0115-distinct-subsequences) |
+| [0227-basic-calculator-ii](https://github.com/Dhruvraj707/DSA/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Dhruvraj707/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Dhruvraj707/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Dhruvraj707/DSA/tree/master/0389-find-the-difference) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dhruvraj707/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhruvraj707/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Dhruvraj707/DSA/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/Dhruvraj707/DSA/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Dhruvraj707/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Dhruvraj707/DSA/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruvraj707/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
