@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhruvraj707/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/Dhruvraj707/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dhruvraj707/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0494-target-sum](https://github.com/Dhruvraj707/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Dhruvraj707/DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruvraj707/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Dhruvraj707/DSA/tree/master/0645-set-mismatch) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Dhruvraj707/DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Dhruvraj707/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Dhruvraj707/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Dhruvraj707/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Dhruvraj707/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhruvraj707/DSA/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/Dhruvraj707/DSA/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -353,4 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dhruvraj707/DSA/tree/master/0204-count-primes) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Dhruvraj707/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Dhruvraj707/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
