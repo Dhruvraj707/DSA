@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Dhruvraj707/DSA/tree/master/0835-image-overlap) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dhruvraj707/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1995-count-special-quadruplets](https://github.com/Dhruvraj707/DSA/tree/master/1995-count-special-quadruplets) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Dhruvraj707/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Dhruvraj707/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Dhruvraj707/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruvraj707/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Dhruvraj707/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Dhruvraj707/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Dhruvraj707/DSA/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Dhruvraj707/DSA/tree/master/0258-add-digits) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Dhruvraj707/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Database
 |  |
 | ------- |
