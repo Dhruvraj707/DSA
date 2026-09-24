@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhruvraj707/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Dhruvraj707/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Dhruvraj707/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Dhruvraj707/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Dhruvraj707/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Dhruvraj707/DSA/tree/master/0048-rotate-image) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Dhruvraj707/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Dhruvraj707/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Dhruvraj707/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhruvraj707/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/Dhruvraj707/DSA/tree/master/0202-happy-number) |
