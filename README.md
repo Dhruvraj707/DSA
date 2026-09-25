@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dhruvraj707/DSA/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Dhruvraj707/DSA/tree/master/0835-image-overlap) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dhruvraj707/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1672-richest-customer-wealth](https://github.com/Dhruvraj707/DSA/tree/master/1672-richest-customer-wealth) |
 | [1995-count-special-quadruplets](https://github.com/Dhruvraj707/DSA/tree/master/1995-count-special-quadruplets) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhruvraj707/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Dhruvraj707/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/Dhruvraj707/DSA/tree/master/0835-image-overlap) |
+| [1672-richest-customer-wealth](https://github.com/Dhruvraj707/DSA/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
