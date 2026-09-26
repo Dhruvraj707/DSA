@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Dhruvraj707/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Dhruvraj707/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dhruvraj707/DSA/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhruvraj707/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Dhruvraj707/DSA/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhruvraj707/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruvraj707/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhruvraj707/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dhruvraj707/DSA/tree/master/0704-binary-search) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dhruvraj707/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dhruvraj707/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhruvraj707/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Dhruvraj707/DSA/tree/master/0835-image-overlap) |
 | [1572-matrix-diagonal-sum](https://github.com/Dhruvraj707/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Dhruvraj707/DSA/tree/master/1672-richest-customer-wealth) |
@@ -376,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Dhruvraj707/DSA/tree/master/0494-target-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhruvraj707/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
