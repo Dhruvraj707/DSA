@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Dhruvraj707/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Dhruvraj707/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruvraj707/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruvraj707/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Dhruvraj707/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Dhruvraj707/DSA/tree/master/0704-binary-search) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvraj707/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/Dhruvraj707/DSA/tree/master/0835-image-overlap) |
 | [1572-matrix-diagonal-sum](https://github.com/Dhruvraj707/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Dhruvraj707/DSA/tree/master/1672-richest-customer-wealth) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Dhruvraj707/DSA/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Dhruvraj707/DSA/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0566-reshape-the-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhruvraj707/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Database
 |  |
