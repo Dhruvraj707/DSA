@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Dhruvraj707/DSA/tree/master/0645-set-mismatch) |
 | [1995-count-special-quadruplets](https://github.com/Dhruvraj707/DSA/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Dhruvraj707/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dhruvraj707/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhruvraj707/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhruvraj707/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dhruvraj707/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhruvraj707/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Dhruvraj707/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Dhruvraj707/DSA/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dhruvraj707/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Dhruvraj707/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhruvraj707/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Dhruvraj707/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dhruvraj707/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhruvraj707/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhruvraj707/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dhruvraj707/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Dhruvraj707/DSA/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Dhruvraj707/DSA/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Dhruvraj707/DSA/tree/master/0383-ransom-note) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dhruvraj707/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Design
 |  |
 | ------- |
