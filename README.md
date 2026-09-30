@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Dhruvraj707/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Dhruvraj707/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Dhruvraj707/DSA/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Dhruvraj707/DSA/tree/master/0835-image-overlap) |
 | [1572-matrix-diagonal-sum](https://github.com/Dhruvraj707/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dhruvraj707/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvraj707/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Dhruvraj707/DSA/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Dhruvraj707/DSA/tree/master/0835-image-overlap) |
 | [1572-matrix-diagonal-sum](https://github.com/Dhruvraj707/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Dhruvraj707/DSA/tree/master/1672-richest-customer-wealth) |
