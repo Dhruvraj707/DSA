@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dhruvraj707/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Dhruvraj707/DSA/tree/master/0115-distinct-subsequences) |
 | [0227-basic-calculator-ii](https://github.com/Dhruvraj707/DSA/tree/master/0227-basic-calculator-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Dhruvraj707/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Dhruvraj707/DSA/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Dhruvraj707/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Dhruvraj707/DSA/tree/master/0383-ransom-note) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhruvraj707/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Dhruvraj707/DSA/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/Dhruvraj707/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Dhruvraj707/DSA/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/Dhruvraj707/DSA/tree/master/0494-target-sum) |
 ## Bracket Sequences
@@ -407,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvraj707/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Dhruvraj707/DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
