@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhruvraj707/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dhruvraj707/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Dhruvraj707/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruvraj707/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Dhruvraj707/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruvraj707/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Dhruvraj707/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Dhruvraj707/DSA/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Dhruvraj707/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dhruvraj707/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruvraj707/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhruvraj707/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhruvraj707/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dhruvraj707/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Dhruvraj707/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Dhruvraj707/DSA/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dhruvraj707/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruvraj707/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhruvraj707/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruvraj707/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dhruvraj707/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruvraj707/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
