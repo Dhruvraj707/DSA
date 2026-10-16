@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Dhruvraj707/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruvraj707/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhruvraj707/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dhruvraj707/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Dhruvraj707/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruvraj707/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhruvraj707/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Dhruvraj707/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruvraj707/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhruvraj707/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dhruvraj707/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhruvraj707/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhruvraj707/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dhruvraj707/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -440,8 +442,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhruvraj707/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dhruvraj707/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhruvraj707/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dhruvraj707/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
