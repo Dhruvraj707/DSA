@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Dhruvraj707/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Dhruvraj707/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhruvraj707/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dhruvraj707/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dhruvraj707/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruvraj707/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhruvraj707/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Dhruvraj707/DSA/tree/master/2409-count-days-spent-together) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Dhruvraj707/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Dhruvraj707/DSA/tree/master/3270-find-the-key-of-the-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dhruvraj707/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhruvraj707/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhruvraj707/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhruvraj707/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Dhruvraj707/DSA/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhruvraj707/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhruvraj707/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dhruvraj707/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dhruvraj707/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhruvraj707/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Greedy
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Dhruvraj707/DSA/tree/master/0204-count-primes) |
 | [1995-count-special-quadruplets](https://github.com/Dhruvraj707/DSA/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Dhruvraj707/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dhruvraj707/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruvraj707/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/Dhruvraj707/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Dhruvraj707/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Dhruvraj707/DSA/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dhruvraj707/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting Sort
 |  |
 | ------- |
